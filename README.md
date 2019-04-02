@@ -1,2 +1,4 @@
-# more-example-images
-Example images for OpenSeadragon site
+More-Example-Images
+==============
+
+More example images for OpenSeadragon site. All the action's in the gh-pages branch.
